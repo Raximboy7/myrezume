@@ -1,2 +1,1 @@
-# myrezume
-Django, Css, Html, JS
+hello world
